@@ -39,7 +39,7 @@
      <term><parameter>callback</parameter></term>
      <listitem>
       <para>
-       Typically, <parameter>callback</parameter> takes on two parameters.
+       Typically, <parameter>callback</parameter> takes or two parameters.
        The <parameter>array</parameter> parameter's value being the first, and
        the key/index second.
       </para>
